@@ -17,6 +17,6 @@ Hello
 :wink:
 
 
-```javascript
+```js
 var s = 'my string';
 ```
