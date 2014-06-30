@@ -16,3 +16,7 @@ Hello
 
 :wink:
 
+
+'''javascript
+var s = 'my string';
+'''
